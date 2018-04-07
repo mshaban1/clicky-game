@@ -1,0 +1,10 @@
+.navbar-custom {
+  background-color: #5133A4;
+  font-size: calc(10px + 14 * (100vw - 320px)/ 800);
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 900;
+}
